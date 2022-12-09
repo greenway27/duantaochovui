@@ -76,23 +76,3 @@ cp .env.example .env
 yarn install
 yarn dev
 ```
-
-and visit http://localhost:4783
-
-## 🤝 Supporting Repos
-
-- [Lenster Assets](https://github.com/lensterxyz/assets) - Static assets hosted in Vercel edge CDN
-- [Lenster Sitemap](https://github.com/lensterxyz/sitemap) - List of sitemap for SEO
-- [Lenster Utils](https://github.com/lensterxyz/utils) - Util APIs and http rewrites
-
-## 💕 Contributors
-
-We love contributors! Feel free to contribute to this project but please read the [Contributing Guidelines](CONTRIBUTING.md) before opening an issue or PR so you understand the branching strategy and local development environment.
-
-<a href="https://github.com/lensterxyz/lenster/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=lensterxyz/lenster" />
-</a>
-
-## ⚖️ License
-
-Lenster is open-sourced software licensed under the © [MIT](LICENSE).
